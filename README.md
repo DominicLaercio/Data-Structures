@@ -3,3 +3,6 @@
 
 ### - Array
 My simple implementation of an array like structure with the inttention of exploring and learning more about the memory management with the C++ language.
+
+### - List
+My implementation of a linked list. 
